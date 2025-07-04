@@ -1,9 +1,5 @@
 //Heizalee C. Ibiaz    BSCpE 3
 
-// REFERENCES:
-//Bro Code.Bro Code. (2020, September 14). Java GUI: Full Course ☕ (FREE). Youtube URL https://www.youtube.com/watch?v=Kmgo00avvEw&t=347s
-//BoostMyTool. BoostMyTool. (2021, June 9). Install and Use WindowBuilder with Eclipse IDE 2021. Youtube URL https://www.youtube.com/watch?v=7HChmKwOUzw
-
 package midtermsdll;
 
 import java.awt.EventQueue;
